@@ -18,8 +18,8 @@
        <h1>Opening</h1>
         <h2 class="openPara">
 
-            <p class="Intro">Hello, my name is Jordan Miles</p>
-            <p class="endPara">and this is my site concerning myself</p>  
+            <p>Hello, my name is Jordan Miles</p>
+            <p>and this is my site concerning myself</p>  
 
         </h2>
       </div>
